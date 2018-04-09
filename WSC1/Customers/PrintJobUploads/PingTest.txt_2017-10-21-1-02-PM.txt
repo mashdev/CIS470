@@ -1,0 +1,194 @@
+Ping request could not find host ::DFW01S-D025.acad.dvuadmin.net. Please check the name and try again.
+
+Pinging DFW01S-D031.acad.dvuadmin.net [10.39.8.189] with 32 bytes of data:
+Reply from 10.39.8.189: bytes=32 time=34ms TTL=122
+
+Ping statistics for 10.39.8.189:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 34ms, Average = 34ms
+
+Pinging DFW01S-D033.acad.dvuadmin.net [10.39.8.115] with 32 bytes of data:
+Reply from 10.39.8.115: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.115:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D032.acad.dvuadmin.net [10.39.8.180] with 32 bytes of data:
+Reply from 10.39.8.180: bytes=32 time=33ms TTL=122
+
+Ping statistics for 10.39.8.180:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 33ms, Average = 33ms
+
+Pinging DFW01S-D030.acad.dvuadmin.net [10.39.8.160] with 32 bytes of data:
+Reply from 10.39.8.160: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.160:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-d034.acad.dvuadmin.net [10.39.8.143] with 32 bytes of data:
+Reply from 10.39.8.143: bytes=32 time=34ms TTL=122
+
+Ping statistics for 10.39.8.143:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 34ms, Average = 34ms
+
+Pinging DFW01S-d038.acad.dvuadmin.net [10.39.8.161] with 32 bytes of data:
+Reply from 10.39.8.161: bytes=32 time=34ms TTL=122
+
+Ping statistics for 10.39.8.161:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 34ms, Average = 34ms
+
+Pinging DFW01S-d037.acad.dvuadmin.net [10.39.8.187] with 32 bytes of data:
+Reply from 10.39.8.187: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.187:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-d028.acad.dvuadmin.net [10.39.8.168] with 32 bytes of data:
+Reply from 10.39.8.168: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.168:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D029.acad.dvuadmin.net [10.39.8.163] with 32 bytes of data:
+Reply from 10.39.8.163: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.163:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+Ping request could not find host DFW01S-D02.acad.dvuadmin.net. Please check the name and try again.
+
+Pinging DFW01S-D022.acad.dvuadmin.net [10.39.8.150] with 32 bytes of data:
+Reply from 10.39.8.150: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.150:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D023.acad.dvuadmin.net [10.39.8.174] with 32 bytes of data:
+Reply from 10.39.8.174: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.174:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D024.acad.dvuadmin.net [10.39.8.158] with 32 bytes of data:
+Reply from 10.39.8.158: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.158:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D025.acad.dvuadmin.net [10.39.8.135] with 32 bytes of data:
+Reply from 10.39.8.135: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.135:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D091.acad.dvuadmin.net [10.39.8.198] with 32 bytes of data:
+Reply from 10.39.8.198: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.198:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D017.acad.dvuadmin.net [10.39.8.172] with 32 bytes of data:
+Reply from 10.39.8.172: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.172:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D018.acad.dvuadmin.net [10.39.8.196] with 32 bytes of data:
+Reply from 10.39.8.196: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.196:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D070.acad.dvuadmin.net [10.39.8.127] with 32 bytes of data:
+Reply from 10.39.8.127: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.127:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D019.acad.dvuadmin.net [10.39.8.140] with 32 bytes of data:
+Reply from 10.39.8.140: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.140:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D011.acad.dvuadmin.net [10.39.8.165] with 32 bytes of data:
+Reply from 10.39.8.165: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.165:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D015.acad.dvuadmin.net [10.39.8.118] with 32 bytes of data:
+Reply from 10.39.8.118: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.118:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D020.acad.dvuadmin.net [10.39.8.170] with 32 bytes of data:
+Reply from 10.39.8.170: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.170:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D012.acad.dvuadmin.net [10.39.8.136] with 32 bytes of data:
+Reply from 10.39.8.136: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.136:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
+
+Pinging DFW01S-D016.acad.dvuadmin.net [10.39.8.145] with 32 bytes of data:
+Reply from 10.39.8.145: bytes=32 time=31ms TTL=122
+
+Ping statistics for 10.39.8.145:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 31ms, Maximum = 31ms, Average = 31ms
+
+Pinging DFW01S-D009.acad.dvuadmin.net [10.39.8.146] with 32 bytes of data:
+Reply from 10.39.8.146: bytes=32 time=32ms TTL=122
+
+Ping statistics for 10.39.8.146:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 32ms, Maximum = 32ms, Average = 32ms
