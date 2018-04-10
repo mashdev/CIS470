@@ -1,4 +1,4 @@
-# CIS470SeniorProject
+# CIS470 Senior Project
 
 Moved senior project to repo to demonstrate my work. 
 
@@ -7,6 +7,8 @@ The senior (group) project was like many that I had been told of by colleagues w
 When it came down to the actual coding only one team mate stepped up and created the database and tables but no one else took ownership or volunteered to do any of the programming. I ended up taking ownership of the coding and built the project from the ground up and taking it down to the wire which ended on a 20 hour code sprint to the finish.
 
 I absolutely refused to not pass the senior project class and made it a point to get an "A" in the class which the team was able to benefit from. Why am I including this in the README you ask? It is to show that I love to program and have the "Do Not Give Up" attitude when it comes to developing solutions.
+
+___
 
 Enough with my senior project horror story..
 
